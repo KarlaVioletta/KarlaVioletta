@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @KarlaVioletta
-- 👀 I’m currently interested in Web Programming and Database Management
+- 👀 I’m currently interested in Data Analyst, Web Programming and Database Management
 - 🌱 I’m currently learning Web Programming
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’ve finish learning python from Stanford, Code In Place; Web Programming, Database Management and Data Analyst from Udemy
+- 💞️ I’m looking to collaborate on nothing now...
 - 📫 How to reach me through email Karla.Violetta@outlook.co.id
 - 😄 Pronouns: She
 - ⚡ Fun fact: I love reading novels
